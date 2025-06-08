@@ -1,0 +1,323 @@
+06/05/25 16:48:51 v1.34.5 @ DESKTOP-3CO967N, 
+06/05/25 16:48:51 v1.34.5 @ DESKTOP-3CO967N, ****************************
+06/05/25 16:48:51 v1.34.5 @ DESKTOP-3CO967N, Starting factorization of 1234567891011121314151617181920
+06/05/25 16:48:51 v1.34.5 @ DESKTOP-3CO967N, using pretesting plan: normal
+06/05/25 16:48:51 v1.34.5 @ DESKTOP-3CO967N, no tune info: using qs/gnfs crossover of 95 digits
+06/05/25 16:48:51 v1.34.5 @ DESKTOP-3CO967N, ****************************
+06/05/25 16:48:51 v1.34.5 @ DESKTOP-3CO967N, div: found prime factor = 2
+06/05/25 16:48:51 v1.34.5 @ DESKTOP-3CO967N, div: found prime factor = 2
+06/05/25 16:48:51 v1.34.5 @ DESKTOP-3CO967N, div: found prime factor = 2
+06/05/25 16:48:51 v1.34.5 @ DESKTOP-3CO967N, div: found prime factor = 2
+06/05/25 16:48:51 v1.34.5 @ DESKTOP-3CO967N, div: found prime factor = 2
+06/05/25 16:48:51 v1.34.5 @ DESKTOP-3CO967N, div: found prime factor = 3
+06/05/25 16:48:51 v1.34.5 @ DESKTOP-3CO967N, div: found prime factor = 5
+06/05/25 16:48:51 v1.34.5 @ DESKTOP-3CO967N, rho: x^2 + 3, starting 1000 iterations on C28
+06/05/25 16:48:51 v1.34.5 @ DESKTOP-3CO967N, rho: x^2 + 2, starting 1000 iterations on C28
+06/05/25 16:48:51 v1.34.5 @ DESKTOP-3CO967N, prp6 = 323339
+06/05/25 16:48:51 v1.34.5 @ DESKTOP-3CO967N, rho: x^2 + 2, starting 1000 iterations on C22
+06/05/25 16:48:51 v1.34.5 @ DESKTOP-3CO967N, prp7 = 3347983
+06/05/25 16:48:51 v1.34.5 @ DESKTOP-3CO967N, prp16 = 2375923237887317
+06/05/25 16:48:51 v1.34.5 @ DESKTOP-3CO967N, Total factoring time = 0.0230 seconds
+06/06/25 02:15:58 v1.34.5 @ DESKTOP-3CO967N, 
+06/06/25 02:15:58 v1.34.5 @ DESKTOP-3CO967N, ****************************
+06/06/25 02:15:58 v1.34.5 @ DESKTOP-3CO967N, Starting factorization of 205030758322841
+06/06/25 02:15:58 v1.34.5 @ DESKTOP-3CO967N, using pretesting plan: normal
+06/06/25 02:15:58 v1.34.5 @ DESKTOP-3CO967N, no tune info: using qs/gnfs crossover of 95 digits
+06/06/25 02:15:58 v1.34.5 @ DESKTOP-3CO967N, ****************************
+06/06/25 02:15:58 v1.34.5 @ DESKTOP-3CO967N, div: found prime factor = 11
+06/06/25 02:15:58 v1.34.5 @ DESKTOP-3CO967N, rho: x^2 + 3, starting 1000 iterations on C14
+06/06/25 02:15:58 v1.34.5 @ DESKTOP-3CO967N, rho: x^2 + 2, starting 1000 iterations on C14
+06/06/25 02:15:58 v1.34.5 @ DESKTOP-3CO967N, prp6 = 269281
+06/06/25 02:15:58 v1.34.5 @ DESKTOP-3CO967N, prp8 = 69218251
+06/06/25 02:15:58 v1.34.5 @ DESKTOP-3CO967N, Total factoring time = 0.0158 seconds
+06/06/25 02:16:36 v1.34.5 @ DESKTOP-3CO967N, 
+06/06/25 02:16:36 v1.34.5 @ DESKTOP-3CO967N, ****************************
+06/06/25 02:16:36 v1.34.5 @ DESKTOP-3CO967N, Starting factorization of 204989236710741
+06/06/25 02:16:36 v1.34.5 @ DESKTOP-3CO967N, using pretesting plan: normal
+06/06/25 02:16:36 v1.34.5 @ DESKTOP-3CO967N, no tune info: using qs/gnfs crossover of 95 digits
+06/06/25 02:16:36 v1.34.5 @ DESKTOP-3CO967N, ****************************
+06/06/25 02:16:36 v1.34.5 @ DESKTOP-3CO967N, div: found prime factor = 3
+06/06/25 02:16:36 v1.34.5 @ DESKTOP-3CO967N, div: found prime factor = 3
+06/06/25 02:16:36 v1.34.5 @ DESKTOP-3CO967N, div: found prime factor = 7
+06/06/25 02:16:36 v1.34.5 @ DESKTOP-3CO967N, div: found prime factor = 163
+06/06/25 02:16:36 v1.34.5 @ DESKTOP-3CO967N, div: found prime factor = 647
+06/06/25 02:16:36 v1.34.5 @ DESKTOP-3CO967N, prp8 = 30853087
+06/06/25 02:16:36 v1.34.5 @ DESKTOP-3CO967N, Total factoring time = 0.0170 seconds
+06/06/25 02:19:22 v1.34.5 @ DESKTOP-3CO967N, 
+06/06/25 02:19:22 v1.34.5 @ DESKTOP-3CO967N, ****************************
+06/06/25 02:19:22 v1.34.5 @ DESKTOP-3CO967N, Starting factorization of 6016702491134032965007932537360412111268234679912009456358187165305813543980434423876073602778724586617818232467710976772959367882686581975866637984275741853926683715776866174565405679540101299806568410891146423570047514791249441253744452932810002402791199223867452683756487284108933535244776013729198282027
+06/06/25 02:19:22 v1.34.5 @ DESKTOP-3CO967N, using pretesting plan: normal
+06/06/25 02:19:22 v1.34.5 @ DESKTOP-3CO967N, no tune info: using qs/gnfs crossover of 95 digits
+06/06/25 02:19:22 v1.34.5 @ DESKTOP-3CO967N, ****************************
+06/06/25 02:19:22 v1.34.5 @ DESKTOP-3CO967N, rho: x^2 + 3, starting 1000 iterations on C307
+06/06/25 02:19:22 v1.34.5 @ DESKTOP-3CO967N, rho: x^2 + 2, starting 1000 iterations on C307
+06/06/25 02:19:22 v1.34.5 @ DESKTOP-3CO967N, rho: x^2 + 1, starting 1000 iterations on C307
+06/06/25 02:19:22 v1.34.5 @ DESKTOP-3CO967N, pm1: starting B1 = 150K, B2 = gmp-ecm default on C307
+06/06/25 02:19:22 v1.34.5 @ DESKTOP-3CO967N, current ECM pretesting depth: 0.00
+06/06/25 02:19:22 v1.34.5 @ DESKTOP-3CO967N, scheduled 30 curves at B1=2000 toward target pretesting depth of 94.46
+06/06/25 02:19:23 v1.34.5 @ DESKTOP-3CO967N, Finished 30 curves using Lenstra ECM method on C307 input, B1=2K, B2=gmp-ecm default
+06/06/25 02:19:23 v1.34.5 @ DESKTOP-3CO967N, current ECM pretesting depth: 15.18
+06/06/25 02:19:23 v1.34.5 @ DESKTOP-3CO967N, scheduled 74 curves at B1=11000 toward target pretesting depth of 94.46
+06/06/25 02:19:34 v1.34.5 @ DESKTOP-3CO967N, Finished 74 curves using Lenstra ECM method on C307 input, B1=11K, B2=gmp-ecm default
+06/06/25 02:19:34 v1.34.5 @ DESKTOP-3CO967N, current ECM pretesting depth: 20.24
+06/06/25 02:19:34 v1.34.5 @ DESKTOP-3CO967N, scheduled 214 curves at B1=50000 toward target pretesting depth of 94.46
+06/06/25 02:21:46 v1.34.5 @ DESKTOP-3CO967N, Finished 214 curves using Lenstra ECM method on C307 input, B1=50K, B2=gmp-ecm default
+06/06/25 02:21:46 v1.34.5 @ DESKTOP-3CO967N, pm1: starting B1 = 3750K, B2 = gmp-ecm default on C307
+06/06/25 02:21:51 v1.34.5 @ DESKTOP-3CO967N, current ECM pretesting depth: 25.33
+06/06/25 02:21:51 v1.34.5 @ DESKTOP-3CO967N, scheduled 430 curves at B1=250000 toward target pretesting depth of 94.46
+06/06/25 02:22:07 v1.34.5 @ DESKTOP-3CO967N, 
+06/06/25 02:22:07 v1.34.5 @ DESKTOP-3CO967N, ****************************
+06/06/25 02:22:07 v1.34.5 @ DESKTOP-3CO967N, Starting factorization of 10443888814131525066917527107166243825799642490473837803842334832839539079715524822900732352
+06/06/25 02:22:07 v1.34.5 @ DESKTOP-3CO967N, using pretesting plan: normal
+06/06/25 02:22:07 v1.34.5 @ DESKTOP-3CO967N, no tune info: using qs/gnfs crossover of 95 digits
+06/06/25 02:22:07 v1.34.5 @ DESKTOP-3CO967N, ****************************
+06/06/25 02:22:07 v1.34.5 @ DESKTOP-3CO967N, div: found prime factor = 2
+06/06/25 02:22:07 v1.34.5 @ DESKTOP-3CO967N, div: found prime factor = 2
+06/06/25 02:22:07 v1.34.5 @ DESKTOP-3CO967N, div: found prime factor = 2
+06/06/25 02:22:07 v1.34.5 @ DESKTOP-3CO967N, div: found prime factor = 2
+06/06/25 02:22:07 v1.34.5 @ DESKTOP-3CO967N, div: found prime factor = 2
+06/06/25 02:22:07 v1.34.5 @ DESKTOP-3CO967N, div: found prime factor = 2
+06/06/25 02:22:07 v1.34.5 @ DESKTOP-3CO967N, prp90 = 163185762720805079170586361049472559778119413913653715685036481763117798120555075357823943
+06/06/25 02:22:07 v1.34.5 @ DESKTOP-3CO967N, Total factoring time = 0.1161 seconds
+06/06/25 10:49:31 v1.34.5 @ DESKTOP-3CO967N, 
+06/06/25 10:49:31 v1.34.5 @ DESKTOP-3CO967N, ****************************
+06/06/25 10:49:31 v1.34.5 @ DESKTOP-3CO967N, Starting factorization of 3816577376710375096003718378429145442638434149628317555658866067554937579162148716522648323410154848998372977977773720272107089601932785522396033631804287
+06/06/25 10:49:31 v1.34.5 @ DESKTOP-3CO967N, using pretesting plan: normal
+06/06/25 10:49:31 v1.34.5 @ DESKTOP-3CO967N, no tune info: using qs/gnfs crossover of 95 digits
+06/06/25 10:49:31 v1.34.5 @ DESKTOP-3CO967N, ****************************
+06/06/25 10:49:31 v1.34.5 @ DESKTOP-3CO967N, rho: x^2 + 3, starting 1000 iterations on C154
+06/06/25 10:49:31 v1.34.5 @ DESKTOP-3CO967N, rho: x^2 + 2, starting 1000 iterations on C154
+06/06/25 10:49:31 v1.34.5 @ DESKTOP-3CO967N, rho: x^2 + 1, starting 1000 iterations on C154
+06/06/25 10:49:31 v1.34.5 @ DESKTOP-3CO967N, pm1: starting B1 = 150K, B2 = gmp-ecm default on C154
+06/06/25 10:49:31 v1.34.5 @ DESKTOP-3CO967N, current ECM pretesting depth: 0.00
+06/06/25 10:49:31 v1.34.5 @ DESKTOP-3CO967N, scheduled 30 curves at B1=2000 toward target pretesting depth of 47.38
+06/06/25 10:49:31 v1.34.5 @ DESKTOP-3CO967N, Finished 30 curves using Lenstra ECM method on C154 input, B1=2K, B2=gmp-ecm default
+06/06/25 10:49:31 v1.34.5 @ DESKTOP-3CO967N, current ECM pretesting depth: 15.18
+06/06/25 10:49:31 v1.34.5 @ DESKTOP-3CO967N, scheduled 74 curves at B1=11000 toward target pretesting depth of 47.38
+06/06/25 10:49:36 v1.34.5 @ DESKTOP-3CO967N, Finished 74 curves using Lenstra ECM method on C154 input, B1=11K, B2=gmp-ecm default
+06/06/25 10:49:36 v1.34.5 @ DESKTOP-3CO967N, current ECM pretesting depth: 20.24
+06/06/25 10:49:36 v1.34.5 @ DESKTOP-3CO967N, scheduled 214 curves at B1=50000 toward target pretesting depth of 47.38
+06/06/25 10:50:29 v1.34.5 @ DESKTOP-3CO967N, Finished 214 curves using Lenstra ECM method on C154 input, B1=50K, B2=gmp-ecm default
+06/06/25 10:50:29 v1.34.5 @ DESKTOP-3CO967N, pm1: starting B1 = 3750K, B2 = gmp-ecm default on C154
+06/06/25 10:50:31 v1.34.5 @ DESKTOP-3CO967N, current ECM pretesting depth: 25.33
+06/06/25 10:50:31 v1.34.5 @ DESKTOP-3CO967N, scheduled 430 curves at B1=250000 toward target pretesting depth of 47.38
+06/06/25 10:56:34 v1.34.5 @ DESKTOP-3CO967N, Finished 430 curves using Lenstra ECM method on C154 input, B1=250K, B2=gmp-ecm default
+06/06/25 10:56:34 v1.34.5 @ DESKTOP-3CO967N, pm1: starting B1 = 15M, B2 = gmp-ecm default on C154
+06/06/25 10:56:41 v1.34.5 @ DESKTOP-3CO967N, current ECM pretesting depth: 30.45
+06/06/25 10:56:41 v1.34.5 @ DESKTOP-3CO967N, scheduled 904 curves at B1=1000000 toward target pretesting depth of 47.38
+06/06/25 12:48:20 v1.34.5 @ DESKTOP-3CO967N, 
+06/06/25 12:48:20 v1.34.5 @ DESKTOP-3CO967N, ****************************
+06/06/25 12:48:20 v1.34.5 @ DESKTOP-3CO967N, Starting factorization of 32287711325293533505002464601397385624716834675619975353486029868635143711531
+06/06/25 12:48:20 v1.34.5 @ DESKTOP-3CO967N, using pretesting plan: normal
+06/06/25 12:48:20 v1.34.5 @ DESKTOP-3CO967N, no tune info: using qs/gnfs crossover of 95 digits
+06/06/25 12:48:20 v1.34.5 @ DESKTOP-3CO967N, ****************************
+06/06/25 12:48:20 v1.34.5 @ DESKTOP-3CO967N, rho: x^2 + 3, starting 1000 iterations on C77
+06/06/25 12:48:20 v1.34.5 @ DESKTOP-3CO967N, rho: x^2 + 2, starting 1000 iterations on C77
+06/06/25 12:48:20 v1.34.5 @ DESKTOP-3CO967N, rho: x^2 + 1, starting 1000 iterations on C77
+06/06/25 12:48:20 v1.34.5 @ DESKTOP-3CO967N, pm1: starting B1 = 150K, B2 = gmp-ecm default on C77
+06/06/25 12:48:20 v1.34.5 @ DESKTOP-3CO967N, current ECM pretesting depth: 0.00
+06/06/25 12:48:20 v1.34.5 @ DESKTOP-3CO967N, scheduled 30 curves at B1=2000 toward target pretesting depth of 23.69
+06/06/25 12:48:20 v1.34.5 @ DESKTOP-3CO967N, Finished 30 curves using Lenstra ECM method on C77 input, B1=2K, B2=gmp-ecm default
+06/06/25 12:48:20 v1.34.5 @ DESKTOP-3CO967N, current ECM pretesting depth: 15.18
+06/06/25 12:48:20 v1.34.5 @ DESKTOP-3CO967N, scheduled 74 curves at B1=11000 toward target pretesting depth of 23.69
+06/06/25 12:48:23 v1.34.5 @ DESKTOP-3CO967N, Finished 74 curves using Lenstra ECM method on C77 input, B1=11K, B2=gmp-ecm default
+06/06/25 12:48:23 v1.34.5 @ DESKTOP-3CO967N, current ECM pretesting depth: 20.24
+06/06/25 12:48:23 v1.34.5 @ DESKTOP-3CO967N, scheduled 149 curves at B1=50000 toward target pretesting depth of 23.69
+06/06/25 12:48:41 v1.34.5 @ DESKTOP-3CO967N, Finished 149 curves using Lenstra ECM method on C77 input, B1=50K, B2=gmp-ecm default
+06/06/25 12:48:41 v1.34.5 @ DESKTOP-3CO967N, final ECM pretested depth: 23.72
+06/06/25 12:48:41 v1.34.5 @ DESKTOP-3CO967N, scheduler: switching to sieve method
+06/06/25 12:48:41 v1.34.5 @ DESKTOP-3CO967N, starting SIQS on c77: 32287711325293533505002464601397385624716834675619975353486029868635143711531
+06/06/25 12:48:41 v1.34.5 @ DESKTOP-3CO967N, random seeds: 1972207308, 4085362756
+06/06/25 12:48:41 v1.34.5 @ DESKTOP-3CO967N, ==== sieve params ====
+06/06/25 12:48:41 v1.34.5 @ DESKTOP-3CO967N, n = 79 digits, 261 bits
+06/06/25 12:48:41 v1.34.5 @ DESKTOP-3CO967N, factor base: 34944 primes (max prime = 879169)
+06/06/25 12:48:41 v1.34.5 @ DESKTOP-3CO967N, single large prime cutoff: 74729365 (85 * pmax)
+06/06/25 12:48:41 v1.34.5 @ DESKTOP-3CO967N, allocating 7 large prime slices of factor base
+06/06/25 12:48:41 v1.34.5 @ DESKTOP-3CO967N, buckets hold 2048 elements
+06/06/25 12:48:41 v1.34.5 @ DESKTOP-3CO967N, using 32k sieve core
+06/06/25 12:48:41 v1.34.5 @ DESKTOP-3CO967N, sieve interval: 10 blocks of size 32768
+06/06/25 12:48:41 v1.34.5 @ DESKTOP-3CO967N, polynomial A has ~ 10 factors
+06/06/25 12:48:41 v1.34.5 @ DESKTOP-3CO967N, using multiplier of 59
+06/06/25 12:48:41 v1.34.5 @ DESKTOP-3CO967N, using SPV correction of 21 bits, starting at offset 35
+06/06/25 12:48:41 v1.34.5 @ DESKTOP-3CO967N, using SSE2 for trial division and x64 sieve scanning
+06/06/25 12:48:41 v1.34.5 @ DESKTOP-3CO967N, using SSE4.1 enabled 32k sieve core
+06/06/25 12:48:41 v1.34.5 @ DESKTOP-3CO967N, using SSE2 for resieving 13-16 bit primes
+06/06/25 12:48:41 v1.34.5 @ DESKTOP-3CO967N, trial factoring cutoff at 90 bits
+06/06/25 12:48:41 v1.34.5 @ DESKTOP-3CO967N, ==== sieving started (1 thread) ====
+06/06/25 12:50:09 v1.34.5 @ DESKTOP-3CO967N, trial division touched 2490123 sieve locations out of 39940915200
+06/06/25 12:50:09 v1.34.5 @ DESKTOP-3CO967N, 35093 relations found: 18470 full + 16623 from 177469 partial, using 60945 polys (238 A polys)
+06/06/25 12:50:09 v1.34.5 @ DESKTOP-3CO967N, on average, sieving found 3.22 rels/poly and 2234.44 rels/sec
+06/06/25 12:50:09 v1.34.5 @ DESKTOP-3CO967N, trial division touched 2490123 sieve locations out of 39940915200
+06/06/25 12:50:09 v1.34.5 @ DESKTOP-3CO967N, ==== post processing stage (msieve-1.38) ====
+06/06/25 12:50:09 v1.34.5 @ DESKTOP-3CO967N, begin with 195939 relations
+06/06/25 12:50:09 v1.34.5 @ DESKTOP-3CO967N, reduce to 49711 relations in 2 passes
+06/06/25 12:50:09 v1.34.5 @ DESKTOP-3CO967N, recovered 49711 relations
+06/06/25 12:50:09 v1.34.5 @ DESKTOP-3CO967N, recovered 33952 polynomials
+06/06/25 12:50:09 v1.34.5 @ DESKTOP-3CO967N, freed 10 duplicate relations
+06/06/25 12:50:09 v1.34.5 @ DESKTOP-3CO967N, attempting to build 35083 cycles
+06/06/25 12:50:09 v1.34.5 @ DESKTOP-3CO967N, found 35083 cycles in 1 passes
+06/06/25 12:50:09 v1.34.5 @ DESKTOP-3CO967N, distribution of cycle lengths:
+06/06/25 12:50:09 v1.34.5 @ DESKTOP-3CO967N,    length 1 : 18469
+06/06/25 12:50:09 v1.34.5 @ DESKTOP-3CO967N,    length 2 : 16614
+06/06/25 12:50:09 v1.34.5 @ DESKTOP-3CO967N, largest cycle: 2 relations
+06/06/25 12:50:09 v1.34.5 @ DESKTOP-3CO967N, matrix is 34944 x 35083 (5.0 MB) with weight 1033199 (29.45/col)
+06/06/25 12:50:09 v1.34.5 @ DESKTOP-3CO967N, sparse part has weight 1033199 (29.45/col)
+06/06/25 12:50:09 v1.34.5 @ DESKTOP-3CO967N, filtering completed in 3 passes
+06/06/25 12:50:09 v1.34.5 @ DESKTOP-3CO967N, matrix is 24660 x 24724 (3.9 MB) with weight 826122 (33.41/col)
+06/06/25 12:50:09 v1.34.5 @ DESKTOP-3CO967N, sparse part has weight 826122 (33.41/col)
+06/06/25 12:50:09 v1.34.5 @ DESKTOP-3CO967N, saving the first 48 matrix rows for later
+06/06/25 12:50:09 v1.34.5 @ DESKTOP-3CO967N, matrix is 24612 x 24724 (3.2 MB) with weight 665548 (26.92/col)
+06/06/25 12:50:09 v1.34.5 @ DESKTOP-3CO967N, sparse part has weight 591572 (23.93/col)
+06/06/25 12:50:09 v1.34.5 @ DESKTOP-3CO967N, matrix includes 64 packed rows
+06/06/25 12:50:09 v1.34.5 @ DESKTOP-3CO967N, using block size 9889 for processor cache size 3072 kB
+06/06/25 12:50:09 v1.34.5 @ DESKTOP-3CO967N, commencing Lanczos iteration
+06/06/25 12:50:09 v1.34.5 @ DESKTOP-3CO967N, memory use: 2.9 MB
+06/06/25 12:50:10 v1.34.5 @ DESKTOP-3CO967N, lanczos halted after 391 iterations (dim = 24611)
+06/06/25 12:50:10 v1.34.5 @ DESKTOP-3CO967N, recovered 17 nontrivial dependencies
+06/06/25 12:50:10 v1.34.5 @ DESKTOP-3CO967N, prp39 = 138909545277423573826721125080021592079
+06/06/25 12:50:10 v1.34.5 @ DESKTOP-3CO967N, prp39 = 232436952124564539875321672887875063589
+06/06/25 12:50:10 v1.34.5 @ DESKTOP-3CO967N, Lanczos elapsed time = 1.4180 seconds.
+06/06/25 12:50:10 v1.34.5 @ DESKTOP-3CO967N, Sqrt elapsed time = 0.0360 seconds.
+06/06/25 12:50:10 v1.34.5 @ DESKTOP-3CO967N, SIQS elapsed time = 89.1443 seconds.
+06/06/25 12:50:10 v1.34.5 @ DESKTOP-3CO967N, 
+06/06/25 12:50:10 v1.34.5 @ DESKTOP-3CO967N, 
+06/06/25 12:50:10 v1.34.5 @ DESKTOP-3CO967N, Total factoring time = 110.2793 seconds
+06/08/25 20:17:57 v1.34.5 @ DESKTOP-3CO967N, 
+06/08/25 20:17:57 v1.34.5 @ DESKTOP-3CO967N, ****************************
+06/08/25 20:17:57 v1.34.5 @ DESKTOP-3CO967N, Starting factorization of 55660230017543115688160597851531723037665004222431815679216217019737343746938231856830328690081
+06/08/25 20:17:57 v1.34.5 @ DESKTOP-3CO967N, using pretesting plan: normal
+06/08/25 20:17:57 v1.34.5 @ DESKTOP-3CO967N, no tune info: using qs/gnfs crossover of 95 digits
+06/08/25 20:17:57 v1.34.5 @ DESKTOP-3CO967N, ****************************
+06/08/25 20:17:57 v1.34.5 @ DESKTOP-3CO967N, rho: x^2 + 3, starting 1000 iterations on C95
+06/08/25 20:17:57 v1.34.5 @ DESKTOP-3CO967N, rho: x^2 + 2, starting 1000 iterations on C95
+06/08/25 20:17:57 v1.34.5 @ DESKTOP-3CO967N, rho: x^2 + 1, starting 1000 iterations on C95
+06/08/25 20:17:57 v1.34.5 @ DESKTOP-3CO967N, pm1: starting B1 = 150K, B2 = gmp-ecm default on C95
+06/08/25 20:17:57 v1.34.5 @ DESKTOP-3CO967N, current ECM pretesting depth: 0.00
+06/08/25 20:17:57 v1.34.5 @ DESKTOP-3CO967N, scheduled 30 curves at B1=2000 toward target pretesting depth of 29.23
+06/08/25 20:17:57 v1.34.5 @ DESKTOP-3CO967N, Finished 30 curves using Lenstra ECM method on C95 input, B1=2K, B2=gmp-ecm default
+06/08/25 20:17:57 v1.34.5 @ DESKTOP-3CO967N, current ECM pretesting depth: 15.18
+06/08/25 20:17:57 v1.34.5 @ DESKTOP-3CO967N, scheduled 74 curves at B1=11000 toward target pretesting depth of 29.23
+06/08/25 20:18:01 v1.34.5 @ DESKTOP-3CO967N, Finished 74 curves using Lenstra ECM method on C95 input, B1=11K, B2=gmp-ecm default
+06/08/25 20:18:01 v1.34.5 @ DESKTOP-3CO967N, current ECM pretesting depth: 20.24
+06/08/25 20:18:01 v1.34.5 @ DESKTOP-3CO967N, scheduled 214 curves at B1=50000 toward target pretesting depth of 29.23
+06/08/25 20:18:30 v1.34.5 @ DESKTOP-3CO967N, Finished 214 curves using Lenstra ECM method on C95 input, B1=50K, B2=gmp-ecm default
+06/08/25 20:18:30 v1.34.5 @ DESKTOP-3CO967N, pm1: starting B1 = 3750K, B2 = gmp-ecm default on C95
+06/08/25 20:18:32 v1.34.5 @ DESKTOP-3CO967N, current ECM pretesting depth: 25.33
+06/08/25 20:18:32 v1.34.5 @ DESKTOP-3CO967N, scheduled 337 curves at B1=250000 toward target pretesting depth of 29.23
+06/08/25 20:22:02 v1.34.5 @ DESKTOP-3CO967N, Finished 337 curves using Lenstra ECM method on C95 input, B1=250K, B2=gmp-ecm default
+06/08/25 20:22:02 v1.34.5 @ DESKTOP-3CO967N, final ECM pretested depth: 29.25
+06/08/25 20:22:02 v1.34.5 @ DESKTOP-3CO967N, scheduler: switching to sieve method
+06/08/25 20:22:02 v1.34.5 @ DESKTOP-3CO967N, starting SIQS on c95: 55660230017543115688160597851531723037665004222431815679216217019737343746938231856830328690081
+06/08/25 20:22:02 v1.34.5 @ DESKTOP-3CO967N, random seeds: 15113354, 3801175375
+06/08/25 20:22:02 v1.34.5 @ DESKTOP-3CO967N, ==== sieve params ====
+06/08/25 20:22:02 v1.34.5 @ DESKTOP-3CO967N, n = 95 digits, 315 bits
+06/08/25 20:22:02 v1.34.5 @ DESKTOP-3CO967N, factor base: 92912 primes (max prime = 2541281)
+06/08/25 20:22:02 v1.34.5 @ DESKTOP-3CO967N, single large prime cutoff: 330366530 (130 * pmax)
+06/08/25 20:22:02 v1.34.5 @ DESKTOP-3CO967N, double large prime range from 43 to 51 bits
+06/08/25 20:22:02 v1.34.5 @ DESKTOP-3CO967N, double large prime cutoff: 2158702901033922
+06/08/25 20:22:02 v1.34.5 @ DESKTOP-3CO967N, allocating 9 large prime slices of factor base
+06/08/25 20:22:02 v1.34.5 @ DESKTOP-3CO967N, buckets hold 2048 elements
+06/08/25 20:22:02 v1.34.5 @ DESKTOP-3CO967N, using 32k sieve core
+06/08/25 20:22:02 v1.34.5 @ DESKTOP-3CO967N, sieve interval: 18 blocks of size 32768
+06/08/25 20:22:02 v1.34.5 @ DESKTOP-3CO967N, polynomial A has ~ 12 factors
+06/08/25 20:22:02 v1.34.5 @ DESKTOP-3CO967N, using multiplier of 1
+06/08/25 20:22:02 v1.34.5 @ DESKTOP-3CO967N, using SPV correction of 20 bits, starting at offset 33
+06/08/25 20:22:02 v1.34.5 @ DESKTOP-3CO967N, using SSE2 for trial division and x128 sieve scanning
+06/08/25 20:22:02 v1.34.5 @ DESKTOP-3CO967N, using SSE4.1 enabled 32k sieve core
+06/08/25 20:22:02 v1.34.5 @ DESKTOP-3CO967N, using SSE2 for resieving 13-16 bit primes
+06/08/25 20:22:02 v1.34.5 @ DESKTOP-3CO967N, trial factoring cutoff at 100 bits
+06/08/25 20:22:02 v1.34.5 @ DESKTOP-3CO967N, ==== sieving started (1 thread) ====
+06/08/25 20:29:12 v1.34.5 @ DESKTOP-3CO967N, 
+06/08/25 20:29:12 v1.34.5 @ DESKTOP-3CO967N, ****************************
+06/08/25 20:29:12 v1.34.5 @ DESKTOP-3CO967N, Starting factorization of 9138250390416163187270614424433998945123590913762063095666717608306491965688764572730688605267
+06/08/25 20:29:12 v1.34.5 @ DESKTOP-3CO967N, using pretesting plan: normal
+06/08/25 20:29:12 v1.34.5 @ DESKTOP-3CO967N, no tune info: using qs/gnfs crossover of 95 digits
+06/08/25 20:29:12 v1.34.5 @ DESKTOP-3CO967N, ****************************
+06/08/25 20:29:12 v1.34.5 @ DESKTOP-3CO967N, rho: x^2 + 3, starting 1000 iterations on C94
+06/08/25 20:29:12 v1.34.5 @ DESKTOP-3CO967N, rho: x^2 + 2, starting 1000 iterations on C94
+06/08/25 20:29:12 v1.34.5 @ DESKTOP-3CO967N, rho: x^2 + 1, starting 1000 iterations on C94
+06/08/25 20:29:12 v1.34.5 @ DESKTOP-3CO967N, pm1: starting B1 = 150K, B2 = gmp-ecm default on C94
+06/08/25 20:29:12 v1.34.5 @ DESKTOP-3CO967N, current ECM pretesting depth: 0.00
+06/08/25 20:29:12 v1.34.5 @ DESKTOP-3CO967N, scheduled 30 curves at B1=2000 toward target pretesting depth of 28.92
+06/08/25 20:29:13 v1.34.5 @ DESKTOP-3CO967N, Finished 30 curves using Lenstra ECM method on C94 input, B1=2K, B2=gmp-ecm default
+06/08/25 20:29:13 v1.34.5 @ DESKTOP-3CO967N, current ECM pretesting depth: 15.18
+06/08/25 20:29:13 v1.34.5 @ DESKTOP-3CO967N, scheduled 74 curves at B1=11000 toward target pretesting depth of 28.92
+06/08/25 20:29:16 v1.34.5 @ DESKTOP-3CO967N, Finished 74 curves using Lenstra ECM method on C94 input, B1=11K, B2=gmp-ecm default
+06/08/25 20:29:16 v1.34.5 @ DESKTOP-3CO967N, current ECM pretesting depth: 20.24
+06/08/25 20:29:16 v1.34.5 @ DESKTOP-3CO967N, scheduled 214 curves at B1=50000 toward target pretesting depth of 28.92
+06/08/25 20:29:56 v1.34.5 @ DESKTOP-3CO967N, Finished 214 curves using Lenstra ECM method on C94 input, B1=50K, B2=gmp-ecm default
+06/08/25 20:29:56 v1.34.5 @ DESKTOP-3CO967N, pm1: starting B1 = 3750K, B2 = gmp-ecm default on C94
+06/08/25 20:29:58 v1.34.5 @ DESKTOP-3CO967N, current ECM pretesting depth: 25.33
+06/08/25 20:29:58 v1.34.5 @ DESKTOP-3CO967N, scheduled 309 curves at B1=250000 toward target pretesting depth of 28.92
+06/08/25 20:33:04 v1.34.5 @ DESKTOP-3CO967N, Finished 309 curves using Lenstra ECM method on C94 input, B1=250K, B2=gmp-ecm default
+06/08/25 20:33:04 v1.34.5 @ DESKTOP-3CO967N, final ECM pretested depth: 28.93
+06/08/25 20:33:04 v1.34.5 @ DESKTOP-3CO967N, scheduler: switching to sieve method
+06/08/25 20:33:04 v1.34.5 @ DESKTOP-3CO967N, starting SIQS on c94: 9138250390416163187270614424433998945123590913762063095666717608306491965688764572730688605267
+06/08/25 20:33:04 v1.34.5 @ DESKTOP-3CO967N, random seeds: 1980324567, 67134081
+06/08/25 20:33:05 v1.34.5 @ DESKTOP-3CO967N, ==== sieve params ====
+06/08/25 20:33:05 v1.34.5 @ DESKTOP-3CO967N, n = 95 digits, 314 bits
+06/08/25 20:33:05 v1.34.5 @ DESKTOP-3CO967N, factor base: 90176 primes (max prime = 2452427)
+06/08/25 20:33:05 v1.34.5 @ DESKTOP-3CO967N, single large prime cutoff: 318815510 (130 * pmax)
+06/08/25 20:33:05 v1.34.5 @ DESKTOP-3CO967N, double large prime range from 43 to 51 bits
+06/08/25 20:33:05 v1.34.5 @ DESKTOP-3CO967N, double large prime cutoff: 2024748071917190
+06/08/25 20:33:05 v1.34.5 @ DESKTOP-3CO967N, allocating 9 large prime slices of factor base
+06/08/25 20:33:05 v1.34.5 @ DESKTOP-3CO967N, buckets hold 2048 elements
+06/08/25 20:33:05 v1.34.5 @ DESKTOP-3CO967N, using 32k sieve core
+06/08/25 20:33:05 v1.34.5 @ DESKTOP-3CO967N, sieve interval: 18 blocks of size 32768
+06/08/25 20:33:05 v1.34.5 @ DESKTOP-3CO967N, polynomial A has ~ 12 factors
+06/08/25 20:33:05 v1.34.5 @ DESKTOP-3CO967N, using multiplier of 3
+06/08/25 20:33:05 v1.34.5 @ DESKTOP-3CO967N, using SPV correction of 20 bits, starting at offset 32
+06/08/25 20:33:05 v1.34.5 @ DESKTOP-3CO967N, using SSE2 for trial division and x128 sieve scanning
+06/08/25 20:33:05 v1.34.5 @ DESKTOP-3CO967N, using SSE4.1 enabled 32k sieve core
+06/08/25 20:33:05 v1.34.5 @ DESKTOP-3CO967N, using SSE2 for resieving 13-16 bit primes
+06/08/25 20:33:05 v1.34.5 @ DESKTOP-3CO967N, trial factoring cutoff at 100 bits
+06/08/25 20:33:05 v1.34.5 @ DESKTOP-3CO967N, ==== sieving started (1 thread) ====
+06/08/25 20:37:19 v1.34.5 @ DESKTOP-3CO967N, 
+06/08/25 20:37:19 v1.34.5 @ DESKTOP-3CO967N, ****************************
+06/08/25 20:37:19 v1.34.5 @ DESKTOP-3CO967N, Starting factorization of 449771361812986649279675812376259531749680451671979677908343591370623675648276584570905065124239
+06/08/25 20:37:19 v1.34.5 @ DESKTOP-3CO967N, using pretesting plan: normal
+06/08/25 20:37:19 v1.34.5 @ DESKTOP-3CO967N, no tune info: using qs/gnfs crossover of 95 digits
+06/08/25 20:37:19 v1.34.5 @ DESKTOP-3CO967N, ****************************
+06/08/25 20:37:19 v1.34.5 @ DESKTOP-3CO967N, rho: x^2 + 3, starting 1000 iterations on C96
+06/08/25 20:37:19 v1.34.5 @ DESKTOP-3CO967N, rho: x^2 + 2, starting 1000 iterations on C96
+06/08/25 20:37:19 v1.34.5 @ DESKTOP-3CO967N, rho: x^2 + 1, starting 1000 iterations on C96
+06/08/25 20:37:19 v1.34.5 @ DESKTOP-3CO967N, pm1: starting B1 = 150K, B2 = gmp-ecm default on C96
+06/08/25 20:37:19 v1.34.5 @ DESKTOP-3CO967N, current ECM pretesting depth: 0.00
+06/08/25 20:37:19 v1.34.5 @ DESKTOP-3CO967N, scheduled 30 curves at B1=2000 toward target pretesting depth of 29.54
+06/08/25 20:37:20 v1.34.5 @ DESKTOP-3CO967N, Finished 30 curves using Lenstra ECM method on C96 input, B1=2K, B2=gmp-ecm default
+06/08/25 20:37:20 v1.34.5 @ DESKTOP-3CO967N, current ECM pretesting depth: 15.18
+06/08/25 20:37:20 v1.34.5 @ DESKTOP-3CO967N, scheduled 74 curves at B1=11000 toward target pretesting depth of 29.54
+06/08/25 20:37:23 v1.34.5 @ DESKTOP-3CO967N, Finished 74 curves using Lenstra ECM method on C96 input, B1=11K, B2=gmp-ecm default
+06/08/25 20:37:23 v1.34.5 @ DESKTOP-3CO967N, current ECM pretesting depth: 20.24
+06/08/25 20:37:23 v1.34.5 @ DESKTOP-3CO967N, scheduled 214 curves at B1=50000 toward target pretesting depth of 29.54
+06/08/25 20:38:13 v1.34.5 @ DESKTOP-3CO967N, Finished 214 curves using Lenstra ECM method on C96 input, B1=50K, B2=gmp-ecm default
+06/08/25 20:38:13 v1.34.5 @ DESKTOP-3CO967N, pm1: starting B1 = 3750K, B2 = gmp-ecm default on C96
+06/08/25 20:38:14 v1.34.5 @ DESKTOP-3CO967N, current ECM pretesting depth: 25.33
+06/08/25 20:38:14 v1.34.5 @ DESKTOP-3CO967N, scheduled 363 curves at B1=250000 toward target pretesting depth of 29.54
+06/08/25 20:45:13 v1.34.5 @ DESKTOP-3CO967N, Finished 363 curves using Lenstra ECM method on C96 input, B1=250K, B2=gmp-ecm default
+06/08/25 20:45:13 v1.34.5 @ DESKTOP-3CO967N, final ECM pretested depth: 29.55
+06/08/25 20:45:13 v1.34.5 @ DESKTOP-3CO967N, scheduler: switching to sieve method
+06/08/25 20:45:13 v1.34.5 @ DESKTOP-3CO967N, nfs: commencing nfs on c96: 449771361812986649279675812376259531749680451671979677908343591370623675648276584570905065124239
+06/08/25 20:45:14 v1.34.5 @ DESKTOP-3CO967N, nfs: commencing poly selection with 1 threads
+06/08/25 20:45:14 v1.34.5 @ DESKTOP-3CO967N, nfs: setting deadline of 847 seconds
+06/08/25 20:55:57 v1.34.5 @ DESKTOP-3CO967N, nfs: completed 1 ranges of size 250 in 643.0825 seconds
+06/08/25 20:55:57 v1.34.5 @ DESKTOP-3CO967N, nfs: best poly = # norm 3.783661e-013 alpha -5.010743 e 1.965e-008 rroots 4
+06/08/25 20:55:57 v1.34.5 @ DESKTOP-3CO967N, nfs: commencing lattice sieving with 1 threads
+06/08/25 21:00:46 v1.34.5 @ DESKTOP-3CO967N, 
+06/08/25 21:00:46 v1.34.5 @ DESKTOP-3CO967N, ****************************
+06/08/25 21:00:46 v1.34.5 @ DESKTOP-3CO967N, Starting factorization of 449771361812986649279675812376259531749680451671979677908343591370623675648276584570905065124239
+06/08/25 21:00:46 v1.34.5 @ DESKTOP-3CO967N, using pretesting plan: normal
+06/08/25 21:00:46 v1.34.5 @ DESKTOP-3CO967N, no tune info: using qs/gnfs crossover of 95 digits
+06/08/25 21:00:46 v1.34.5 @ DESKTOP-3CO967N, ****************************
+06/08/25 21:00:46 v1.34.5 @ DESKTOP-3CO967N, nfs: commencing nfs on c96: 449771361812986649279675812376259531749680451671979677908343591370623675648276584570905065124239
+06/08/25 21:00:46 v1.34.5 @ DESKTOP-3CO967N, nfs: continuing with sieving - could not determine last special q; using default startq
+06/08/25 21:00:46 v1.34.5 @ DESKTOP-3CO967N, nfs: commencing lattice sieving with 1 threads
+06/08/25 21:04:00 v1.34.5 @ DESKTOP-3CO967N, 
+06/08/25 21:04:00 v1.34.5 @ DESKTOP-3CO967N, ****************************
+06/08/25 21:04:00 v1.34.5 @ DESKTOP-3CO967N, Starting factorization of 449771361812986649279675812376259531749680451671979677908343591370623675648276584570905065124239
+06/08/25 21:04:00 v1.34.5 @ DESKTOP-3CO967N, using pretesting plan: normal
+06/08/25 21:04:00 v1.34.5 @ DESKTOP-3CO967N, no tune info: using qs/gnfs crossover of 95 digits
+06/08/25 21:04:00 v1.34.5 @ DESKTOP-3CO967N, ****************************
+06/08/25 21:04:00 v1.34.5 @ DESKTOP-3CO967N, nfs: commencing nfs on c96: 449771361812986649279675812376259531749680451671979677908343591370623675648276584570905065124239
+06/08/25 21:04:00 v1.34.5 @ DESKTOP-3CO967N, nfs: continuing with sieving - could not determine last special q; using default startq
+06/08/25 21:04:00 v1.34.5 @ DESKTOP-3CO967N, nfs: commencing lattice sieving with 1 threads
