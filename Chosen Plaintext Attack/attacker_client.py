@@ -1,4 +1,4 @@
-# attacker_client.py
+# attacker_client.py (FIXED for complete ciphertext reception)
 import socket
 from Crypto.PublicKey import RSA
 
@@ -27,21 +27,25 @@ def main():
             while b"||DELIMITER||" not in data_received:
                 packet = s.recv(4096)
                 if not packet:
-                    break
+                    raise ConnectionError("Server disconnected while receiving initial data.")
                 data_received += packet
             
             parts = data_received.split(b"||DELIMITER||", 1)
             public_key_pem = parts[0]
-            TARGET_CIPHERTEXT = parts[1]
+            TARGET_CIPHERTEXT_partial = parts[1] # This might not be the full ciphertext yet
 
-            # The attacker needs to keep receiving until the full ciphertext is there
-            # (RSA ciphertext length depends on key size)
-            key_size_bytes = (RSA.import_key(public_key_pem).n.bit_length() + 7) // 8
+            public_key_obj = RSA.import_key(public_key_pem) # Import key to get size
+            key_size_bytes = (public_key_obj.n.bit_length() + 7) // 8 # Calculate expected ciphertext size
+
+            TARGET_CIPHERTEXT = TARGET_CIPHERTEXT_partial
+            # Loop to ensure full TARGET_CIPHERTEXT is received
             while len(TARGET_CIPHERTEXT) < key_size_bytes:
                  packet = s.recv(4096)
                  if not packet:
-                     break
+                     raise ConnectionError("Server disconnected while receiving full target ciphertext.")
                  TARGET_CIPHERTEXT += packet
+            
+            TARGET_CIPHERTEXT = TARGET_CIPHERTEXT[:key_size_bytes] # Trim any extra data
 
             print(f"[*] Received Public Key from server.")
             print(f"[*] Received Target Ciphertext (Hex): {TARGET_CIPHERTEXT.hex()}")
@@ -53,16 +57,29 @@ def main():
             found_secret = None
             
             for command in POSSIBLE_COMMANDS:
-                # This is the "CHOICE" step. We are choosing a plaintext to encrypt.
                 chosen_plaintext = command
                 print(f"[*] Choosing plaintext: '{chosen_plaintext.decode()}' and sending to oracle...")
 
-                # 3. Send the chosen plaintext to the server's encryption oracle
+                # 3. Send the chosen plaintext (RAW) to the server's encryption oracle
                 s.sendall(chosen_plaintext)
                 
                 # 4. Receive the resulting ciphertext from the oracle
-                generated_ciphertext = s.recv(4096)
+                generated_ciphertext = b""
+                # THIS IS THE CRUCIAL FIX: Loop to ensure full ciphertext is received
+                while len(generated_ciphertext) < key_size_bytes:
+                    packet = s.recv(4096) # Receive in chunks
+                    if not packet:
+                        print("[!] Server disconnected while receiving oracle's ciphertext.")
+                        found_secret = "CONNECTION_LOST" # Flag for connection loss
+                        break
+                    generated_ciphertext += packet
                 
+                if found_secret == "CONNECTION_LOST":
+                    break # Exit outer loop if connection was lost
+
+                # Ensure it's exactly the expected size (in case extra data was received)
+                generated_ciphertext = generated_ciphertext[:key_size_bytes]
+
                 print(f"    -> Oracle returned ciphertext (Hex): {generated_ciphertext.hex()}")
 
                 # 5. Compare the oracle's output with the target ciphertext
@@ -76,11 +93,15 @@ def main():
 
             if not found_secret:
                 print("\n[-] ATTACK FAILED. No matching command found in the list.")
+                # This message provides context for both vulnerable and secure servers
+                print("    This is expected if the server uses probabilistic padding (like PKCS1_OAEP).")
 
         except ConnectionRefusedError:
             print(f"[!] Connection failed. Is the server running on {HOST}:{PORT}?")
+        except ConnectionError as ce:
+            print(f"[!] Connection error: {ce}")
         except Exception as e:
-            print(f"[!] An error occurred: {e}")
+            print(f"[!] An unexpected error occurred: {e}")
 
     print("[*] Attacker client finished.")
 
